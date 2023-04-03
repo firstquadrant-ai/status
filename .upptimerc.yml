@@ -6,7 +6,7 @@ sites:
   - name: FirstQuadrant API
     url: https://api.firstquadrant.ai/health
 status-website:
-  baseUrl: /status
+  cname: status.firstquadrant.ai
   logoUrl: https://avatars.githubusercontent.com/u/122780401?s=88&v=4
   name: FirstQuadrant
   navbar:
