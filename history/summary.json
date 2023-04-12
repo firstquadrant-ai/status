@@ -4,18 +4,20 @@
     "url": "https://firstquadrant.ai",
     "icon": "https://icons.duckduckgo.com/ip3/firstquadrant.ai.ico",
     "slug": "first-quadrant-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1837,
-    "timeDay": 2899,
-    "timeWeek": 1831,
-    "timeMonth": 1837,
-    "timeYear": 1837,
-    "dailyMinutesDown": {}
+    "time": 3187,
+    "timeDay": 11142,
+    "timeWeek": 4025,
+    "timeMonth": 3187,
+    "timeYear": 3187,
+    "dailyMinutesDown": {
+      "2023-04-12": 0
+    }
   },
   {
     "name": "FirstQuadrant API",
