@@ -25,17 +25,17 @@
     "url": "https://api.firstquadrant.ai/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.firstquadrant.ai.ico",
     "slug": "first-quadrant-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "99.52%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 650,
-    "timeDay": 2007,
-    "timeWeek": 1081,
-    "timeMonth": 707,
-    "timeYear": 650,
+    "time": 757,
+    "timeDay": 3363,
+    "timeWeek": 1716,
+    "timeMonth": 911,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2023-05-31": 7
     }
