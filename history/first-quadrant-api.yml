@@ -1,7 +1,7 @@
 url: https://api.firstquadrant.ai/health
-status: down
-code: 502
-responseTime: 1241
-lastUpdated: 2023-06-05T18:27:39.527Z
+status: up
+code: 200
+responseTime: 600
+lastUpdated: 2023-06-05T19:15:49.578Z
 startTime: Mon Apr 03 2023 09:33:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
