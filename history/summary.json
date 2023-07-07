@@ -4,7 +4,7 @@
     "url": "https://firstquadrant.ai",
     "icon": "https://icons.duckduckgo.com/ip3/firstquadrant.ai.ico",
     "slug": "first-quadrant-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2654,
     "timeYear": 2598,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-06-13": 86,
       "2023-06-06": 8,
       "2023-05-08": 16,
