@@ -4,15 +4,15 @@
     "url": "https://firstquadrant.ai",
     "icon": "https://icons.duckduckgo.com/ip3/firstquadrant.ai.ico",
     "slug": "first-quadrant-web-app",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.42%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "98.23%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 3055,
     "timeDay": 4846,
-    "timeWeek": 3845,
+    "timeWeek": 4006,
     "timeMonth": 3743,
     "timeYear": 3055,
     "dailyMinutesDown": {
@@ -31,8 +31,7 @@
       "2023-07-27": 8,
       "2023-07-07": 81,
       "2023-06-13": 86,
-      "2023-06-06": 8,
-      "2023-05-08": 8
+      "2023-06-06": 8
     }
   },
   {
