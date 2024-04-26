@@ -4,7 +4,7 @@ sites:
   - name: FirstQuadrant web app
     url: https://firstquadrant.ai
   - name: FirstQuadrant API
-    url: https://api.firstquadrant.ai/health
+    url: https://firstquadrant.ai/api/health
 status-website:
   cname: status.firstquadrant.ai
   logoUrl: https://avatars.githubusercontent.com/u/122780401?s=88&v=4
