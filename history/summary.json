@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2318,
-    "timeDay": 422,
-    "timeWeek": 482,
-    "timeMonth": 555,
-    "timeYear": 2286,
+    "time": 2314,
+    "timeDay": 426,
+    "timeWeek": 363,
+    "timeMonth": 498,
+    "timeYear": 2279,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "first-quadrant-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 1018,
-    "timeWeek": 418,
-    "timeMonth": 211,
-    "timeYear": 582,
+    "time": 580,
+    "timeDay": 100,
+    "timeWeek": 424,
+    "timeMonth": 204,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2024-05-22": 21
     }
