@@ -4,25 +4,27 @@
     "url": "https://firstquadrant.ai",
     "icon": "https://icons.duckduckgo.com/ip3/firstquadrant.ai.ico",
     "slug": "first-quadrant-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2072,
+    "time": 2069,
     "timeDay": 620,
     "timeWeek": 360,
     "timeMonth": 371,
     "timeYear": 1984,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-02": 2
+    }
   },
   {
     "name": "FirstQuadrant API",
     "url": "https://firstquadrant.ai/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/firstquadrant.ai.ico",
     "slug": "first-quadrant-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 105,
     "timeMonth": 103,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-02": 0
+    }
   }
 ]
