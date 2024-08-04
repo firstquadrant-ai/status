@@ -6,15 +6,15 @@
     "slug": "first-quadrant-web-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2064,
-    "timeDay": 348,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 1971,
+    "time": 2049,
+    "timeDay": 368,
+    "timeWeek": 383,
+    "timeMonth": 374,
+    "timeYear": 1968,
     "dailyMinutesDown": {
       "2024-08-02": 6
     }
@@ -26,15 +26,15 @@
     "slug": "first-quadrant-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 71,
-    "timeWeek": 97,
-    "timeMonth": 103,
-    "timeYear": 307,
+    "time": 507,
+    "timeDay": 102,
+    "timeWeek": 98,
+    "timeMonth": 101,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2024-08-02": 5
     }
