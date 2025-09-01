@@ -32,7 +32,7 @@
     "url": "https://firstquadrant.ai/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/firstquadrant.ai.ico",
     "slug": "first-quadrant-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.45%",
     "uptimeWeek": "98.22%",
@@ -44,6 +44,7 @@
     "timeMonth": 438,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2025-09-01": 0,
       "2025-08-31": 22,
       "2025-08-30": 32,
       "2025-08-29": 80,
