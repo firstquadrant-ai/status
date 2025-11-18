@@ -1,7 +1,7 @@
 url: https://firstquadrant.ai
-status: up
-code: 200
-responseTime: 242
-lastUpdated: 2025-11-17T23:05:38.023Z
+status: down
+code: 500
+responseTime: 50
+lastUpdated: 2025-11-18T11:56:14.500Z
 startTime: 2023-04-03T09:33:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
